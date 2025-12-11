@@ -33,8 +33,8 @@ Agribot allows farmers to spray crops from a safe distance (30–50 meters) usin
 
 The robot's mechanical structure was conceived and designed using **SolidWorks CAD software**, allowing for precise component placement, stress analysis, and optimization before physical construction.
 
-![3D CAD Model](docs/3d-model1.png)
-![3D CAD Model](docs/3d-model2.png)
+![3D CAD Model](docs/3D_model1.png)
+![3D CAD Model](docs/3D_model2.png)
 *SolidWorks 3D model showing the initial design concept and component layout*
 
 The 3D modeling phase enabled us to:
@@ -61,7 +61,8 @@ The final robot incorporates:
 
 A custom web-based control dashboard was built from scratch using HTML, CSS, and JavaScript, providing an intuitive interface accessible from any smartphone or tablet.
 
-![Control Dashboard](docs/dashboard.png)
+![Control Dashboard](docs/dashboard1.png)
+![Control Dashboard](docs/dashboard2.png)
 *WiFi-based control dashboard showing live video feed and control interface*
 
 **Dashboard Features:**
