@@ -6,7 +6,7 @@ A Mobile-Controlled Pesticide Spraying Robot for Nigerian Smallholder Farmers
 
 ## Banner Image
 
-![Agribot Banner](docs/banner.png)
+![Agribot Banner](docs/RobotView1.png)
 
 
 
