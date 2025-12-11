@@ -61,8 +61,8 @@ The final robot incorporates:
 
 A custom web-based control dashboard was built from scratch using HTML, CSS, and JavaScript, providing an intuitive interface accessible from any smartphone or tablet.
 
-![Control Dashboard](docs/dashboard1.png)
-![Control Dashboard](docs/dashboard2.png)
+![Control Dashboard](docs/Dashboard1.png)
+![Control Dashboard](docs/Dashboard2.png)
 *WiFi-based control dashboard showing live video feed and control interface*
 
 **Dashboard Features:**
